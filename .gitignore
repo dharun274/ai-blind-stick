@@ -1,0 +1,5 @@
+__pycache__/
+.venv/
+*.pyc
+*.pt
+id_ed25519*
